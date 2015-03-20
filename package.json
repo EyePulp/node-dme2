@@ -1,6 +1,6 @@
 {
   "name": "dme2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This module allows one to connect to DNSMadeEasy's APIs (V2.0)",
   "main": "lib/dnsmadeeasy.js",
   "dependencies": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/5060/dme2-node.git"
+    "url": "https://github.com/evanlucas/dme2-node.git"
   },
   "keywords": [
     "dnsmadeeasy",
